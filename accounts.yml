@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Mykola Nykolaichuk - developer"
+    email: "mnykolaichuk96@gmail.com"
+  onCallSupport:
+    - 791-863-388
+    - (098)517-95-96
